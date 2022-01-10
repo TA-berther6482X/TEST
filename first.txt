@@ -2,3 +2,4 @@ gitの練習をしていきます。
 sonoichi
 sonosan
 kurenai
+rm
