@@ -3,3 +3,4 @@ sonoichi
 sonosan
 kurenai
 rm
+git status
