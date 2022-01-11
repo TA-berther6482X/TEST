@@ -4,3 +4,4 @@ sonosan
 kurenai
 rm
 git status
+git diff
